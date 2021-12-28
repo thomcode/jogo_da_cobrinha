@@ -1,0 +1,1 @@
+turtle é uma biblioteca Python pré-instalada que permite que os usuários criem imagens e formas, fornecendo-lhes uma tela virtual. A caneta na tela que você usa para desenhar é chamada de tartaruga e é isso que dá nome à biblioteca. Em suma, a biblioteca Python ajuda novos programadores a ter uma noção de como é a programação com python de forma divertida e interativa.turtle
